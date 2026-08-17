@@ -1,4 +1,4 @@
-# Fine-tuning LLama-2-7B using QLoRA
+# QLoRA Fine-Tuning of LLM
 
 This repository contains code and instructions for fine-tuning the [LLaMA](https://github.com/facebookresearch/llama) 2-7B language model on a custom dataset using the QLoRA (Quantized Low-Rank Adapters) technique.
 
